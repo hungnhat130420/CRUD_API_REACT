@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 6",
+      "price": 500,
+      "status": true
+    },
+    {
+      "name": "samsung galaxy",
+      "price": "200",
+      "status": "1",
+      "id": 2
+    },
+    {
+      "name": " iphone 8",
+      "price": "1000",
+      "status": "",
+      "id": 4
+    },
+    {
+      "name": " MacBook Pro",
+      "price": "1000",
+      "status": false,
+      "id": 5
+    }
+  ]
+}
